@@ -1,4 +1,4 @@
-#Pretrained Model with some tweaks
+# Pretrained Model with some tweaks
 Please go to the group cloud storage to download the file model.ckpt.data-00000-of-00001 and put that in the save folder along with the other model files.
 
 # Deep Q&A
